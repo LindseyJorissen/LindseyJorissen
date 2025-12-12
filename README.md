@@ -4,7 +4,10 @@ Welcome to my GitHub! This is where I document my coding journey and track my pr
 
 <!--     ![Coding cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)    -->
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+### Geek stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <p align="center"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
