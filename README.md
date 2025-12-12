@@ -6,6 +6,13 @@ Welcome to my GitHub! This is where I document my coding journey and track my pr
 
 ### Geek stats
 <!--START_SECTION:waka-->
+
+```txt
+From: 04 December 2025 - To: 11 December 2025
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
