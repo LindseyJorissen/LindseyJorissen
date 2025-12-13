@@ -8,9 +8,11 @@ Welcome to my GitHub! This is where I document my coding journey and track my pr
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 December 2025 - To: 11 December 2025
+From: 05 December 2025 - To: 12 December 2025
 
-No activity tracked
+Python     17 mins         ███████████████▒░░░░░░░░░   61.10 %
+HTML       7 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.12 %
+Markdown   3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
 ```
 
 <!--END_SECTION:waka-->
