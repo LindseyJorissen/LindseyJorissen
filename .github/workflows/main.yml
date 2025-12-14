@@ -3,7 +3,6 @@ name: Work Stats Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs every 24 hours
     - cron: "0 7 * * *"
 
 env:
