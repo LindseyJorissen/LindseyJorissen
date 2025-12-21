@@ -8,17 +8,17 @@ Welcome to my GitHub! This is where I document my coding journey and track my pr
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 December 2025 - To: 19 December 2025
+From: 13 December 2025 - To: 20 December 2025
 
-CSS                4 hrs 15 mins   █████████░░░░░░░░░░░░░░░░   36.10 %
-JavaScript         3 hrs 13 mins   ███████░░░░░░░░░░░░░░░░░░   27.45 %
-HTML               1 hr 39 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 %
-Python             1 hr 29 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
-Text               24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
-GitIgnore file     22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-Markdown           15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-JSON               3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-Requirements.txt   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+CSS                3 hrs 53 mins   ██████████░░░░░░░░░░░░░░░   39.71 %
+JavaScript         2 hrs 10 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.20 %
+HTML               1 hr 39 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.93 %
+Python             1 hr 10 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
+Text               24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+GitIgnore file     22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+JSON               3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Requirements.txt   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Markdown           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
