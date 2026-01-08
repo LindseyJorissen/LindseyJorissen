@@ -8,13 +8,13 @@ Welcome to my GitHub! This is where I document my coding journey and track my pr
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 December 2025 - To: 06 January 2026
+From: 31 December 2025 - To: 07 January 2026
 
-HTML               33 mins         ███████████▒░░░░░░░░░░░░░   45.15 %
-Python             23 mins         ███████▓░░░░░░░░░░░░░░░░░   31.23 %
-CSS                10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.31 %
-JavaScript         6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
-Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+CSS                2 hrs 2 mins    ██████████▓░░░░░░░░░░░░░░   43.07 %
+HTML               1 hr 38 mins    ████████▓░░░░░░░░░░░░░░░░   34.37 %
+JavaScript         40 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.23 %
+Python             23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
+Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
