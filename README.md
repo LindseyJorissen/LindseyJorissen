@@ -8,7 +8,7 @@ Welcome to my GitHub! This is where I document my coding journey and track my pr
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 January 2026 - To: 18 January 2026
+From: 12 January 2026 - To: 19 January 2026
 
 Python            2 hrs 31 mins   ██████████░░░░░░░░░░░░░░░   40.11 %
 CSS               1 hr 33 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.91 %
