@@ -8,18 +8,18 @@ Welcome to my GitHub! This is where I document my coding journey and track my pr
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 February 2026 - To: 04 March 2026
+From: 26 February 2026 - To: 05 March 2026
 
-HTML                       4 hrs 20 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.40 %
-Python                     2 hrs 32 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.93 %
-Dart                       2 hrs 16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 %
-TypeScript                 1 hr 44 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
-CSS                        1 hr 40 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
-YAML                       1 hr 36 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
-Bash                       1 hr 18 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
-Gettext Catalog            41 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
-Git Config                 15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-Markdown                   12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+HTML                       6 hrs 24 mins         ████████▒░░░░░░░░░░░░░░░░   33.04 %
+Python                     3 hrs 5 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.95 %
+Dart                       2 hrs 16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
+TypeScript                 1 hr 44 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
+YAML                       1 hr 26 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
+CSS                        1 hr 19 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+Bash                       1 hr 18 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+Markdown                   40 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+JavaScript                 23 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Git Config                 12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 ```
 
 <!--END_SECTION:waka-->
