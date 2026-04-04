@@ -8,20 +8,20 @@ Welcome to my GitHub! This is where I document my coding journey and track my pr
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 March 2026 - To: 02 April 2026
+From: 27 March 2026 - To: 03 April 2026
 
-Total Time: 9 hrs 2 mins
+Total Time: 9 hrs 39 mins
 
-HTML                       3 hrs 40 mins         ██████████░░░░░░░░░░░░░░░   40.08 %
-CSS                        1 hr 49 mins          █████░░░░░░░░░░░░░░░░░░░░   19.94 %
-Python                     1 hr 35 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.35 %
-TypeScript                 47 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
-JavaScript                 21 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-Kotlin                     9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
-Dart                       9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-YAML                       8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-Markdown                   7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-Other                      6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+HTML                       3 hrs 47 mins         █████████▓░░░░░░░░░░░░░░░   38.49 %
+CSS                        1 hr 49 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.53 %
+Python                     1 hr 35 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.13 %
+TypeScript                 47 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+Dart                       27 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+JavaScript                 21 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+YAML                       19 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Other                      11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Kotlin                     9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Markdown                   7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 ```
 
 <!--END_SECTION:waka-->
