@@ -8,19 +8,18 @@ Welcome to my GitHub! This is where I document my coding journey and track my pr
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 April 2026 - To: 09 April 2026
+From: 03 April 2026 - To: 10 April 2026
 
-Total Time: 2 hrs 44 mins
+Total Time: 2 hrs 6 mins
 
-TypeScript                 1 hr 8 mins           █████████▓░░░░░░░░░░░░░░░   38.23 %
-HTML                       37 mins               █████░░░░░░░░░░░░░░░░░░░░   20.64 %
-Dart                       18 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
-Other                      15 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
-YAML                       15 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
-XML                        9 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
-Nginx configuration file   5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-Text                       4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-Docker                     4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+TypeScript                 1 hr 8 mins           ████████████▒░░░░░░░░░░░░   49.74 %
+HTML                       29 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.59 %
+Other                      11 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
+XML                        9 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
+Nginx configuration file   5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+Text                       4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+Docker                     4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+YAML                       3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
 ```
 
 <!--END_SECTION:waka-->
