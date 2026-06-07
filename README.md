@@ -8,15 +8,13 @@ Welcome to my GitHub! This is where I document my coding journey and track my pr
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2026 - To: 04 June 2026
+From: 30 May 2026 - To: 06 June 2026
 
-Total Time: 13 hrs 16 mins
+Total Time: 16 hrs 41 mins
 
-Python       13 hrs 3 mins         ████████████████████████▓   98.40 %
-Markdown     10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-JSON         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Git          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Python     16 hrs 34 mins        ████████████████████████▓   99.30 %
+Markdown   5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+JSON       1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
