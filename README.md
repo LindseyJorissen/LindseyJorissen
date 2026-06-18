@@ -8,17 +8,17 @@ Welcome to my GitHub! This is where I document my coding journey and track my pr
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 June 2026 - To: 16 June 2026
+From: 10 June 2026 - To: 17 June 2026
 
-Total Time: 22 hrs 6 mins
+Total Time: 14 hrs 38 mins
 
-Python       20 hrs 47 mins        ███████████████████████▓░   94.03 %
-JSON         26 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-Markdown     17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-Text         14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Git Config   12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-RPMSpec      8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python       13 hrs 22 mins        ██████████████████████▓░░   91.33 %
+JSON         26 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Text         14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Markdown     14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Git Config   12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+RPMSpec      8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
