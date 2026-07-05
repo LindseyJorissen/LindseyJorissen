@@ -8,20 +8,20 @@ Welcome to my GitHub! This is where I document my coding journey and track my pr
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 June 2026 - To: 03 July 2026
+From: 27 June 2026 - To: 04 July 2026
 
-Total Time: 3 hrs 11 mins
+Total Time: 2 hrs 38 mins
 
-Godot Resource   1 hr 18 mins          ██████████▒░░░░░░░░░░░░░░   40.71 %
-HTML             30 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.93 %
-JavaScript       21 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
-Bash             18 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
-TypeScript       18 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
-GDScript3        17 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
-Docker           4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-JSON             2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Other            0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-CSS              0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+HTML                       41 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.99 %
+Bash                       28 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.97 %
+Docker                     25 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.98 %
+TypeScript                 24 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.54 %
+JavaScript                 24 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
+Python                     7 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+JSON                       2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Markdown                   2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+CSS                        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Nginx configuration file   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
