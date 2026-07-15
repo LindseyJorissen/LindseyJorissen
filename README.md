@@ -8,20 +8,20 @@ Welcome to my GitHub! This is where I document my coding journey and track my pr
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 July 2026 - To: 13 July 2026
+From: 07 July 2026 - To: 14 July 2026
 
-Total Time: 3 hrs 24 mins
+Total Time: 4 hrs 44 mins
 
-HTML                       56 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.98 %
-JavaScript                 26 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.63 %
-CSS                        23 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
-Docker                     23 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
-Nginx configuration file   19 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
-Python                     18 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
-XML                        15 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
-Markdown                   10 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
-YAML                       5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-RPMSpec                    3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+HTML                       1 hr 38 mins          ████████▓░░░░░░░░░░░░░░░░   34.13 %
+XML                        27 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
+JavaScript                 26 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
+CSS                        23 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
+Docker                     23 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
+TypeScript                 22 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
+Nginx configuration file   19 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
+Python                     18 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+Markdown                   12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+YAML                       5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 ```
 
 <!--END_SECTION:waka-->
